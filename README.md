@@ -1,6 +1,7 @@
 # String Similarity
 
 **Amaç**
+
 Girilen iki String ifadenin birbirinin permütasyonları olup olmadığına karar verilmesidir. 
 
 Örneğin;
