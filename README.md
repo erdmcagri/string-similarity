@@ -2,9 +2,12 @@
 
 **Amaç**
 Girilen iki String ifadenin birbirinin permütasyonları olup olmadığına karar verilmesidir. 
+
 Örneğin;
 
+
 _"baba"_ , _"abab"_ -> _true_
+
 _"baba"_ , _"abc"_ -> _false_
 
 Girilen stringler karakterlerine ayrılarak karakter bazlı bir karşılaştırma yapıldı. Girilen stringlerden karakter olarak daha fazla karaktere sahip stringin karakter sayısı az olan stringle 
