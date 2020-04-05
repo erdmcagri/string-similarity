@@ -1,7 +1,9 @@
 # String Similarity
 
 **Amaç**
-Girilen iki String ifadenin birbirinin permütasyonları olup olmadığına karar verilmesidir. Örneğin;
+Girilen iki String ifadenin birbirinin permütasyonları olup olmadığına karar verilmesidir. 
+Örneğin;
+
 _"baba"_ , _"abab"_ -> _true_
 _"baba"_ , _"abc"_ -> _false_
 
